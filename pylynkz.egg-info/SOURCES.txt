@@ -1,9 +1,0 @@
-README.md
-setup.py
-pylynkz/__init__.py
-pylynkz/log.py
-pylynkz.egg-info/PKG-INFO
-pylynkz.egg-info/SOURCES.txt
-pylynkz.egg-info/dependency_links.txt
-pylynkz.egg-info/requires.txt
-pylynkz.egg-info/top_level.txt
