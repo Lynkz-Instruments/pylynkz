@@ -14,5 +14,5 @@ setuptools.setup(
     url='https://github.com/mike-huls/toolbox',
     license='MIT',
     packages=['pylynkz'],
-    install_requires=['requests', 'termcolor'],
+    install_requires=['requests', 'termcolor', 'colorama'],
 )
