@@ -1,4 +1,7 @@
 from termcolor import cprint
+from colorama import just_fix_windows_console
+
+just_fix_windows_console()
 
 # LOGGER colors
 LOG_LYNKZ_COLOR = "green"
