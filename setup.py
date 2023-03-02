@@ -11,7 +11,7 @@ setuptools.setup(
     description='Testing installation of Package',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/mike-huls/toolbox',
+    url='https://github.com/Lynkz-Instruments/pylynkz',
     license='MIT',
     packages=['pylynkz'],
     install_requires=['requests', 'termcolor'],
