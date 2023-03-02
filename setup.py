@@ -14,5 +14,5 @@ setuptools.setup(
     url='https://github.com/Lynkz-Instruments/pylynkz',
     license='MIT',
     packages=['pylynkz'],
-    install_requires=['requests', 'termcolor'],
+    install_requires=['requests', 'termcolor', 'colorama>=0.4.6'],
 )
