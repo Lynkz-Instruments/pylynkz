@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name='pylynkz',
-    version='0.0.1',
+    version='0.0.2',
     author='Alexandre Desgagné',
     author_email='alexd@lynkz.ca',
     description='Testing installation of Package',
